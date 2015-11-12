@@ -4,3 +4,5 @@ by checking what if what's in the staging area really is a logical change
 
 everytime I wanted to test something out but I'm not 100% sure about it, branches would help, also keep the code organized.
 
+it helps form the image of a branch, making it easier for me to imagine whats happening at the time
+
