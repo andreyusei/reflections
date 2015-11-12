@@ -6,3 +6,5 @@ everytime I wanted to test something out but I'm not 100% sure about it, branche
 
 it helps form the image of a branch, making it easier for me to imagine whats happening at the time
 
+automatic merge can be handy when there are clearly no conflicts, but when there is even the slightest doubt about a conflict, human input is necessary.
+
