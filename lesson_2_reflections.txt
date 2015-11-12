@@ -2,3 +2,5 @@ the staging area is used to hold the files that you want to commit, it is useful
 
 by checking what if what's in the staging area really is a logical change
 
+everytime I wanted to test something out but I'm not 100% sure about it, branches would help, also keep the code organized.
+
