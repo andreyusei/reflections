@@ -1,1 +1,2 @@
-teste
+the staging area is used to hold the files that you want to commit, it is useful for controlling what you want to commit and what you dont
+
