@@ -1,0 +1,7 @@
+it helped to filter out content that was unchanged and focus only where it had changed, making it easier to spot where the bug was introduced since it couldn't be in one of the unchanged lines
+
+sometimes bugs are introduced or things simply worked better before, so having a version history would help with that
+
+manually choosing is more likely to have some logical meaning, but it also may be too big or too small. Automatically saved changes dont have the risk of the programmer forgetting to save, but the commits may have little to no logical sense, and significant changes may be big or small, something that a automated system cant detect.
+
+because git is a programming oriented tool, while google docs is more used to keep track of text files or spreadsheets
