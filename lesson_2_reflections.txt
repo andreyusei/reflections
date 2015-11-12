@@ -1,2 +1,4 @@
 the staging area is used to hold the files that you want to commit, it is useful for controlling what you want to commit and what you dont
 
+by checking what if what's in the staging area really is a logical change
+
